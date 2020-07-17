@@ -58,3 +58,12 @@ Principles of Economics Learning
 
 - [为什么经济学家的建议并不总是被采纳](Chapter-2.md#为什么经济学家的建议并不总是被采纳)
   
+[**经济学家意见分歧的原因**](Chapter-2.md#经济学家意见分歧的原因)
+
+- [科学判断的不同](Chapter-2.md#科学判断的不同)
+  
+- [价值观的不同](Chapter-2.md#价值观的不同)
+  
+- [感觉与现实](Chapter-2.md#感觉与现实)
+  
+>[第二章内容提要](Chapter-2.md#summary)
