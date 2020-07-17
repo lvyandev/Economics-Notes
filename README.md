@@ -48,6 +48,8 @@ Principles of Economics Learning
   
 - [第二个模型：生产可能性边界](Chapter-2.md#第二个模型：生产可能性边界)
 
+- [微观经济学与宏观经济学](Chapter-2.md#微观经济学与宏观经济学)
+
 [**作为政策顾问的经济学家**](Chapter-2.md#作为政策顾问的经济学家)
 
 - [实证分析与规范分析](Chapter-2.md#实证分析与规范分析)
