@@ -67,3 +67,11 @@ Principles of Economics Learning
 - [感觉与现实](Chapter-2.md#感觉与现实)
   
 >[第二章内容提要](Chapter-2.md#summary)
+
+## 附录 [绘图](appendix-graph.md)
+
+### [单变量的图形](appendix-graph.md#单变量的图形)
+
+### [两个变量的图形：坐标系](appendix-graph.md#两个变量的图形：坐标系)
+
+### [坐标系中的曲线](appendix-graph.md#坐标系中的曲线)
