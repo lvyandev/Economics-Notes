@@ -75,3 +75,7 @@ Principles of Economics Learning
 ### [两个变量的图形：坐标系](appendix-graph.md#两个变量的图形：坐标系)
 
 ### [坐标系中的曲线](appendix-graph.md#坐标系中的曲线)
+
+### [斜率](appendix-graph.md#斜率)
+
+### [原因和结果](appendix-graph.md#原因和结果)
