@@ -2,7 +2,7 @@
 
 Principles of Economics Learning
 
-## 经济学原理笔记
+## 微观经济学
 
 ### 第一章 [经济学十大原理](Chapter-1.md#经济学十大原理)
 
@@ -67,6 +67,14 @@ Principles of Economics Learning
 - [感觉与现实](Chapter-2.md#感觉与现实)
   
 >[第二章内容提要](Chapter-2.md#summary)
+
+### 第三章 [相互依存性与贸易的好处](Chapter-3.md#相互依存性与贸易的好处)
+
+[**一个现代经济寓言**](Chapter-3.md#一个现代经济寓言)
+
+- [生产可能性](Chapter-3.md#生产可能性)
+
+- [专业化与贸易](Chapter-3.md#专业化与贸易)
 
 ## 附录 [绘图](appendix-graph.md)
 
