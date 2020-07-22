@@ -76,6 +76,24 @@ Principles of Economics Learning
 
 - [专业化与贸易](Chapter-3.md#专业化与贸易)
 
+[**比较优势：专业化的动力**](Chapter-3.md#比较优势：专业化的动力)
+
+- [绝对优势](Chapter-3.md#绝对优势)
+
+- [机会成本和比较优势](Chapter-3.md#机会成本和比较优势)
+
+- [比较优势与贸易](Chapter-3.md#比较优势与贸易)
+
+- [贸易的价格](Chapter-3.md#贸易的价格)
+
+[**比较优势的应用**](Chapter-3.md#比较优势的应用)
+
+- [网球明星应该自己修剪草坪吗](Chapter-3.md#网球明星应该自己修剪草坪吗)
+
+- [美国应该与其他国家进行贸易吗](Chapter-3.md#美国应该与其他国家进行贸易吗) 
+
+>[第三章内容提要](Chapter-3.md#summary)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
