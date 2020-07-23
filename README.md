@@ -94,6 +94,20 @@ Principles of Economics Learning
 
 >[第三章内容提要](Chapter-3.md#summary)
 
+### 第四章 [供给与需求的市场力量](Chapter-4.md#供给与需求的市场力量)
+
+[**市场与竞争**](Chapter-4.md#市场与竞争)
+
+- [什么是市场](Chapter-4.md#什么是市场)
+
+- [什么是竞争](Chapter-4.md#什么是竞争)
+
+[**需求**](Chapter-4.md#需求)
+
+- [需求曲线：价格和需求量之间的关系](Chapter-4.md#需求曲线：价格和需求量之间的关系)
+
+- [市场需求与个人需求](Chapter-4.md#市场需求与个人需求)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
