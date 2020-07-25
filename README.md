@@ -90,7 +90,7 @@ Principles of Economics Learning
 
 - [网球明星应该自己修剪草坪吗](Chapter-3.md#网球明星应该自己修剪草坪吗)
 
-- [美国应该与其他国家进行贸易吗](Chapter-3.md#美国应该与其他国家进行贸易吗) 
+- [美国应该与其他国家进行贸易吗](Chapter-3.md#美国应该与其他国家进行贸易吗)
 
 >[第三章内容提要](Chapter-3.md#summary)
 
@@ -107,6 +107,8 @@ Principles of Economics Learning
 - [需求曲线：价格和需求量之间的关系](Chapter-4.md#需求曲线：价格和需求量之间的关系)
 
 - [市场需求与个人需求](Chapter-4.md#市场需求与个人需求)
+
+- [需求曲线的移动](Chapter-4.md#需求曲线的移动)
 
 ## 附录 [绘图](appendix-graph.md)
 
