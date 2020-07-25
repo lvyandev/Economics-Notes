@@ -110,6 +110,10 @@ Principles of Economics Learning
 
 - [需求曲线的移动](Chapter-4.md#需求曲线的移动)
 
+[**供给**](Chapter-4.md#供给)
+
+- [供给曲线：价格与供给量之间的关系](Chapter-4.md#供给曲线：价格与供给量之间的关系)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
