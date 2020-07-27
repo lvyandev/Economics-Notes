@@ -114,6 +114,10 @@ Principles of Economics Learning
 
 - [供给曲线：价格与供给量之间的关系](Chapter-4.md#供给曲线：价格与供给量之间的关系)
 
+- [市场供给与个人供给](Chapter-4.md#市场供给与个人供给)
+
+- [供给曲线的移动](Chapter-4.md#供给曲线的移动)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
