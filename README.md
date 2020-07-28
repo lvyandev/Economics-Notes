@@ -118,6 +118,10 @@ Principles of Economics Learning
 
 - [供给曲线的移动](Chapter-4.md#供给曲线的移动)
 
+[**供给与需求的结合**](Chapter-4.md#供给与需求的结合)
+
+- [均衡](Chapter-4.md#均衡)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
