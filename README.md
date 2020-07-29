@@ -121,6 +121,8 @@ Principles of Economics Learning
 [**供给与需求的结合**](Chapter-4.md#供给与需求的结合)
 
 - [均衡](Chapter-4.md#均衡)
+  
+- [分析均衡变动的三个步骤](Chapter-4.md#分析均衡变动的三个步骤)
 
 ## 附录 [绘图](appendix-graph.md)
 
