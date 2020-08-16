@@ -128,6 +128,12 @@ Principles of Economics Learning
 
 >[第四章内容提要](Chapter-4.md#summary)
 
+### 第五章 [弹性及其作用](Chapter-5.md#弹性及其作用)
+
+[**需求弹性**](Chapter-5.md#需求弹性)
+
+- [需求价格弹性及其决定因素](Chapter-5.md#需求价格弹性及其决定因素)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
