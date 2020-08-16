@@ -124,6 +124,8 @@ Principles of Economics Learning
   
 - [分析均衡变动的三个步骤](Chapter-4.md#分析均衡变动的三个步骤)
 
+[**结论**](Chapter-4.md#结论)
+
 >[第四章内容提要](Chapter-4.md#summary)
 
 ## 附录 [绘图](appendix-graph.md)
