@@ -134,6 +134,14 @@ Principles of Economics Learning
 
 - [需求价格弹性及其决定因素](Chapter-5.md#需求价格弹性及其决定因素)
 
+- [需求价格弹性的计算](Chapter-5.md#需求价格弹性的计算)
+
+- [中点法：一个计算变动百分比和弹性的更好方法](Chapter-5.md#中点法：一个计算变动百分比和弹性的更好方法)
+
+- [各种需求曲线](Chapter-5.md#各种需求曲线)
+
+- [总收益与需求价格弹性](Chapter-5.md#总收益与需求价格弹性)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
