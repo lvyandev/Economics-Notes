@@ -142,6 +142,18 @@ Principles of Economics Learning
 
 - [总收益与需求价格弹性](Chapter-5.md#总收益与需求价格弹性)
 
+- [沿着一条线性需求曲线的弹性和总收益](Chapter-5.md#沿着一条线性需求曲线的弹性和总收益)
+
+- [其他需求弹性](Chapter-5.md#其他需求弹性)
+
+[**供给弹性**](Chapter-5.md#供给弹性)
+
+- [供给价格弹性及其决定因素](Chapter-5.md#供给价格弹性及其决定因素)
+
+- [供给价格弹性的计算](Chapter-5.md#供给价格弹性的计算)
+
+- [各种供给曲线](Chapter-5.md#各种供给曲线)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
