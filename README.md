@@ -154,6 +154,14 @@ Principles of Economics Learning
 
 - [各种供给曲线](Chapter-5.md#各种供给曲线)
 
+[**供给、需求和弹性的三个应用**](Chapter-5.md#供给、需求和弹性的三个应用)
+
+- [农业的好消息可能对农民来说是坏消息吗](Chapter-5.md#农业的好消息可能对农民来说是坏消息吗)
+
+- [为什么OPEC不能保持石油的高价格](Chapter-5.md#为什么OPEC不能保持石油的高价格)
+
+- [禁毒增加还是减少了与毒品相关的犯罪](Chapter-5.md#禁毒增加还是减少了与毒品相关的犯罪)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
