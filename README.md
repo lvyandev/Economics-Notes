@@ -162,6 +162,8 @@ Principles of Economics Learning
 
 - [禁毒增加还是减少了与毒品相关的犯罪](Chapter-5.md#禁毒增加还是减少了与毒品相关的犯罪)
 
+>[第五章内容提要](Chapter-5.md#summary)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
