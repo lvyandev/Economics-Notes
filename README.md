@@ -164,6 +164,12 @@ Principles of Economics Learning
 
 >[第五章内容提要](Chapter-5.md#summary)
 
+### 第六章 [供给、需求与政府政策](Chapter-6.md#供给、需求与政府政策)
+
+[**价格控制**](Chapter-6.md#价格控制)
+
+- [价格上限如何影响市场结果](Chapter-6.md#价格上限如何影响市场结果)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
