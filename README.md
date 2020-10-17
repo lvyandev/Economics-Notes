@@ -169,6 +169,18 @@ Principles of Economics Learning
 [**价格控制**](Chapter-6.md#价格控制)
 
 - [价格上限如何影响市场结果](Chapter-6.md#价格上限如何影响市场结果)
+  
+- [价格下限如何影响市场结果](Chapter-6.md#价格下限如何影响市场结果)
+
+- [对价格控制的评价](Chapter-6.md#对价格控制的评价)
+
+[**税收**](Chapter-6.md#税收)
+
+- [向卖者征税如何影响市场结果](Chapter-6.md#向卖者征税如何影响市场结果)
+
+- [向买者征税如何影响市场结果](Chapter-6.md#向买者征税如何影响市场结果)
+
+- [弹性与税收归宿](Chapter-6.md#弹性与税收归宿)
 
 ## 附录 [绘图](appendix-graph.md)
 
