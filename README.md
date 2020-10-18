@@ -184,6 +184,12 @@ Principles of Economics Learning
 
 >[第六章内容提要](Chapter-6.md#summary)
 
+### 第七章 [消费者、生产者与市场效率](Chapter-7.md#消费者、生产者与市场效率)
+
+[**消费者剩余**](Chapter-7.md#消费者剩余)
+
+- [支付意愿](Chapter-7.md#支付意愿)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
