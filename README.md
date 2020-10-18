@@ -182,6 +182,8 @@ Principles of Economics Learning
 
 - [弹性与税收归宿](Chapter-6.md#弹性与税收归宿)
 
+>[第六章内容提要](Chapter-6.md#summary)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
