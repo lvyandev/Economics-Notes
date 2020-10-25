@@ -190,6 +190,30 @@ Principles of Economics Learning
 
 - [支付意愿](Chapter-7.md#支付意愿)
 
+- [用需求曲线衡量消费者剩余](Chapter-7.md#用需求曲线衡量消费者剩余)
+
+- [价格降低如何增加消费者剩余](Chapter-7.md#价格降低如何增加消费者剩余)
+
+- [消费者剩余衡量什么](Chapter-7.md#消费者剩余衡量什么)
+
+[**生产者剩余**](Chapter-7.md#生产者剩余)
+
+- [成本与销售意愿](Chapter-7.md#成本与销售意愿)
+
+- [用供给曲线衡量生产者剩余](Chapter-7.md#用供给曲线衡量生产者剩余)
+
+- [价格上升如何增加生产者剩余](Chapter-7.md#价格上升如何增加生产者剩余)
+
+[**市场效率**](Chapter-7.md#市场效率)
+
+- [仁慈的社会计划者](Chapter-7.md#仁慈的社会计划者)
+
+- [市场均衡的评价](Chapter-7.md#市场均衡的评价)
+
+[**结论：市场效率与市场失灵**](Chapter-7.md#结论：市场效率与市场失灵)
+
+>[第七章内容提要](Chapter-7.md#summary)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
