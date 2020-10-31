@@ -214,6 +214,20 @@ Principles of Economics Learning
 
 >[第七章内容提要](Chapter-7.md#summary)
 
+### 第八章 [应用：税收的代价](Chapter-8.md#应用：税收的代价)
+
+[**税收的无谓损失**](Chapter-8.md#税收的无谓损失)
+
+- [税收如何影响市场参与者](Chapter-8.md#税收如何影响市场参与者)
+
+- [无谓损失与贸易的好处](Chapter-8.md#无谓损失与贸易的好处)
+
+[**决定无谓损失的因素**](Chapter-8.md#决定无谓损失的因素)
+
+[**税收变动时的无谓损失和税收收入**](Chapter-8.md#税收变动时的无谓损失和税收收入)
+
+>[第八章内容提要](Chapter-8.md#summary)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
