@@ -228,6 +228,38 @@ Principles of Economics Learning
 
 >[第八章内容提要](Chapter-8.md#summary)
 
+### 第九章 [应用：国际贸易](Chapter-9.md#应用：国际贸易)
+
+[**决定贸易的因素**](Chapter-9.md#决定贸易的因素)
+
+- [没有贸易时的均衡](Chapter-9.md#没有贸易时的均衡)
+
+- [世界价格和比较优势](Chapter-9.md#世界价格和比较优势)
+
+[**贸易的赢家和输家**](Chapter-9.md#贸易的赢家和输家)
+
+- [出口国的得失](Chapter-9.md#出口国的得失)
+
+- [进口国的得失](Chapter-9.md#进口国的得失)
+
+- [关税的影响](Chapter-9.md#关税的影响)
+
+- [国际贸易的其他好处](Chapter-9.md#国际贸易的其他好处)
+
+[**各种限制贸易的观点**](Chapter-9.md#各种限制贸易的观点)
+
+- [工作岗位论](Chapter-9.md#工作岗位论)
+
+- [国家安全论](Chapter-9.md#国家安全论)
+
+- [幼稚产业论](Chapter-9.md#幼稚产业论)
+
+- [不公平竞争论](Chapter-9.md#不公平竞争论)
+
+- [作为讨价还价筹码的保护论](Chapter-9.md#作为讨价还价筹码的保护论)
+
+>[第九章内容提要](Chapter-9.md#summary)
+
 ## 附录 [绘图](appendix-graph.md)
 
 ### [单变量的图形](appendix-graph.md#单变量的图形)
